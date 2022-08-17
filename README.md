@@ -78,4 +78,6 @@ Usado [Python 3.10.4](https://www.python.org/) para consulta a documentação Py
 
 
 * **Um desenvolvedor** - Rodrigo-oss-prog.
+
+![icons8-python](https://user-images.githubusercontent.com/76852813/172720089-5ce0ea22-01c9-4444-8e70-a81501452b13.svg)
  😊
