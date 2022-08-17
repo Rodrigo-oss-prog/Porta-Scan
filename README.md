@@ -4,11 +4,11 @@ Este código é um scaner de porta feito em Python.
 
 ### 📋 Pré-requisitos
 
-É necessário ter o python instalado na sua máquina, caso use a IDE VS Code, instale a extenção Python
+É necessário ter o python instalado na sua máquina, caso use a IDE VS Code, instale a extenção Python.
 
 ### 🔧 Instalação
 
-Instalação em uma máquina Linux que usa o instaladr de pacotes APT
+Instalação em uma máquina Linux que usa o instalador de pacotes APT
 
 ```
 sudo apt-get install python3
