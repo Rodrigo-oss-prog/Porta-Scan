@@ -2,12 +2,6 @@
 
 Este código é um scaner de porta feito em Python.
 
-## 🚀 Começando
-
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **Implantação** para saber como implantar o projeto.
-
 ### 📋 Pré-requisitos
 
 É necessário ter o python instalado na sua máquina, caso use a IDE VS Code, instale a extenção Python
