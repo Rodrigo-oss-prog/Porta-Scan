@@ -23,7 +23,7 @@ sudo apt-get install python3-pip
 
 ## ⚙️ Sobre a varredura de portas
 
-Este exemplo de varredura de porta em python nos mostra a versátilidade da linguagem.
+Este exemplo de varredura de porta em python nos mostra a versatilidade da linguagem.
 
 
 ### 🔩 Analisando o código
